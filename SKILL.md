@@ -1,12 +1,10 @@
 ---
 name: euphemism-exposure
-description: A linguistic deconstruction methodology for revealing what soft language
-  hides. This skill teaches you to trace euphemisms back to their hard realities and
-  expose the interests served by sanitized ...
+description: A linguistic deconstruction methodology for revealing what soft language hides. This skill teaches you to trace euphemisms back to their hard realities and expose the interests served by sanitized ...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - euphemism-exposure
 - writing
@@ -200,4 +198,3 @@ THE GAP: [What the euphemism conceals or makes easier to ignore]
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
